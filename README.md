@@ -6,7 +6,3 @@
 Geologic Gameplay:
 ![alt text](https://github.com/pipewriter/resume-projects/blob/main/unknown2.png)
 
-
-# PSpace
-
-![alt text](https://github.com/pipewriter/resume-projects/blob/main/unknown19.png)
